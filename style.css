@@ -1,0 +1,43 @@
+
+       
+       body{
+           background: lightgray;
+       }
+       
+       section{
+           background: rgb(174, 179, 111);
+       }
+       h1{
+            color:green;
+        }
+        p{
+            color: rgb(88, 15, 15);
+        }
+        h2{
+            color: #661d18;
+        }
+        .h3style{
+            color: blueviolet;
+        }
+        .h4style{
+            color: azure;
+        }
+        .h5Style{
+            color: blue;
+        }
+        .sec-style{
+            left: auto;
+            border: aquamarine;
+            color: rgb(230, 142, 34);
+            background-color: rgb(35, 182, 145);
+        }
+        .navStyle{
+            color: cadetblue;
+        }
+        #top{
+            background: burlywood;
+        }
+
+    
+       
+   
