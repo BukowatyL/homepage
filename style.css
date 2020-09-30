@@ -1,50 +1,27 @@
 body {
   background: lightgray;
 }
-
-section {
-  background: rgb(174, 179, 111);
+.header_body{
+  padding: 10px;
+  margin: 5px 20px;
 }
-h1 {
-  color: green;
-}
-p {
-  color: rgb(88, 15, 15);
-}
-h2 {
-  color: #661d18;
-}
-.h3style {
-  color: blueviolet;
-}
-.h4style {
-  color: azure;
-}
-.h5Style {
-  color: blue;
-}
-.sec-style {
-  
-  border: aquamarine;
-  color: rgb(230, 142, 34);
-  background-color: rgb(35, 182, 145);
+.main{
+  padding: 10px;
+  margin: 5px 20px;
 }
 .navigation {
-  color: rgb(2, 12, 12);
-  background-color: rgb(139, 241, 245);
-  padding: 15px;
-  border-radius: 20px;
+  padding: 10px;
 }
 .navigation__link {
     color: black;
-    display: inline-block;
+    display:inline-block;
     margin-right: 10px  ;
 }
 
 .navigation__link--homepage {
-    color: rgb(175, 116, 37);
-    background: rgb(15, 15, 14);
+    background-color: rgb(177, 173, 173);
 }
-#top {
-  background: #d1d40f
+.footer_style{
+  padding: 10px;
+  margin: 5px 20px;
 }
