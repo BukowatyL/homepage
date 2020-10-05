@@ -7,4 +7,6 @@ console.log(`Mam: ${age} lat`);
 
 const navigation = document.querySelector('.navigation');
 console.log(navigation);
-const h2_dom = document.querySelector('.buka-nauka-styli');
+//const empty = document.querySelector('.main__header');
+//console.log(empty);
+//empty.innerHTML= '<span> DOmmmmmmm </span>';
